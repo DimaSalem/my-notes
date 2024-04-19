@@ -1,4 +1,4 @@
-# My Notes
+# my-notes
 
 Hi, I'm Dima Salem a Passionate programmer committed to continuous learning.
 
